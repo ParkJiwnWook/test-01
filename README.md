@@ -6,4 +6,4 @@
 - pull vs fetch
   - pull
   - fetch
-  - 협업하기
+ - 협업하기
